@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adedeji Jeremiah Obaloluwa  
+# 👋 Hi, I'm Jeremiah Adedeji  
 
 🎯 **Geospatial Developer | AI & Web Enthusiast | Python Evangelist**  
 
