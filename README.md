@@ -16,14 +16,6 @@ My academic research focused on **AI-based urban building extraction** using **D
 
 ---
 
-### 🧪 Highlighted Work  
-- 🛰️ **Urban Monitoring with DeepLabv3** – Detected and tracked 5-year building growth from drone imagery  
-- 🌐 **Web GIS Tools** – Developed dashboards for real-time spatial data visualization  
-- 📊 **Spatial Data Pipelines** – Automated data ingestion, transformation, and visualization for mapping projects  
-
----
-
-
 ### 💬 Let’s Connect  
 📫 **Email:** joadedeji@student.oauife.edu.ng  
 🌍 **LinkedIn:** [linkedin.com/in/jeremiah-the-fullstact-web-developer](https://www.linkedin.com/in/jeremiah-the-fullstact-web-developer)  
