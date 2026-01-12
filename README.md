@@ -23,12 +23,6 @@ My academic research focused on **AI-based urban building extraction** using **D
 
 ---
 
-### 🧠 Currently Learning  
-- GeoAI & Deep Learning for Remote Sensing  
-- Advanced Spatial Databases & API Integrations  
-- Scalable Geospatial Cloud Architectures  
-
----
 
 ### 💬 Let’s Connect  
 📫 **Email:** joadedeji@student.oauife.edu.ng  
