@@ -1,57 +1,40 @@
-# 👋 Hi, I’m Adedeji Jeremiah Obaloluwa (connectwithdevjerry)
+# 👋 Hi, I'm Adedeji Jeremiah Obaloluwa  
 
-A passionate Geospatial Developer and AI enthusiast from Nigeria. I build tools and prototypes that turn spatial data into actionable insights by combining Geospatial Intelligence, Machine Learning, and modern web technologies.
+🎯 **Geospatial Developer | AI & Web Enthusiast | Python Evangelist**  
 
----
-
-## About Me
-I hold a B.Sc. in Surveying and Geoinformatics from Obafemi Awolowo University (CGPA: 4.74). My research focused on AI-based urban building extraction using drone imagery and DeepLabv3.
-
-My work sits at the intersection of:
-- Geospatial Intelligence
-- Machine Learning (GeoAI / Remote Sensing)
-- Web GIS and spatial web development
+I'm a **Geoinformatics graduate** from **Obafemi Awolowo University (OAU)** with a **4.74 CGPA**, passionate about building intelligent geospatial systems that drive data-informed urban growth.  
+My academic research focused on **AI-based urban building extraction** using **DeepLabv3** and **drone imagery**, integrating **OpenStreetMap (OSM)** data for spatio-temporal monitoring of city expansion.  
 
 ---
 
-## What I do
-- Develop geospatial pipelines for spatio-temporal analysis and automated mapping
-- Integrate platforms like Google Earth Engine, ArcGIS, PostGIS, and OpenStreetMap
-- Build web GIS applications with Python, Django, React, and Node.js
-- Prototype GeoAI solutions using deep learning on aerial/drone imagery
+### 🧭 What I Do  
+- 🌍 Geospatial Analysis & Remote Sensing with **ArcGIS**, **GEE**, **PostGIS**  
+- 🧠 Machine Learning for Spatial Feature Detection  
+- 💻 Full-Stack Development using **Django**, **Node.js**, **React**, **Tailwind CSS**  
+- 🐳 Cloud & Deployment: **Docker**, **Heroku**, **Render**, **AWS Lambda**, **GCP**  
+- ⚙️ Workflow Automations: **n8n**, **Make.com**, **Zapier**  
 
 ---
 
-## Research & Projects
-- AI-based urban building extraction from drone imagery (DeepLabv3)
-- Spatio-temporal analysis and urban monitoring prototypes
-- Open-source mapping experiments and geospatial tooling
-
-(See pinned repositories for highlights and demos)
+### 🧪 Highlighted Work  
+- 🛰️ **Urban Monitoring with DeepLabv3** – Detected and tracked 5-year building growth from drone imagery  
+- 🌐 **Web GIS Tools** – Developed dashboards for real-time spatial data visualization  
+- 📊 **Spatial Data Pipelines** – Automated data ingestion, transformation, and visualization for mapping projects  
 
 ---
 
-## Tech Stack
-- Languages & Frameworks: Python, Django, Node.js, React
-- Databases & Spatial: PostgreSQL / PostGIS
-- Geospatial Platforms: Google Earth Engine, ArcGIS, OSM
-- ML & Remote Sensing: Deep Learning (e.g., DeepLabv3), GeoAI workflows
-- Dev & Deployment: Docker, Heroku, CI workflows
-- UI: Tailwind CSS
+### 🧠 Currently Learning  
+- GeoAI & Deep Learning for Remote Sensing  
+- Advanced Spatial Databases & API Integrations  
+- Scalable Geospatial Cloud Architectures  
 
 ---
 
-## Interests
-GeoAI • Remote Sensing • Web GIS • Urban Analytics • Open Data
+### 💬 Let’s Connect  
+📫 **Email:** joadedeji@student.oauife.edu.ng  
+🌍 **LinkedIn:** [linkedin.com/in/jeremiah-the-fullstact-web-developer](https://www.linkedin.com/in/jeremiah-the-fullstact-web-developer)  
+💡 **GitHub:** [github.com/connectwithdevjerry](https://github.com/connectwithdevjerry)  
 
 ---
 
-## Mentoring & Community
-I enjoy mentoring upcoming developers and teaching Python. I contribute to and experiment with open-source mapping projects — always happy to collaborate, mentor, or help with geospatial challenges.
-
----
-
-## Contact
-- GitHub: [connectwithdevjerry](https://github.com/connectwithdevjerry)
-
-Feel free to reach out for collaborations, mentorship, or GeoAI conversations. 🚀
+> _"Turning spatial data into stories that build smarter cities."_  
