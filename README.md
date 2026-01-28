@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeremiah Adedeji  
 
-🎯 **Geospatial, AI & Web Developer | Python Evangelist**  
+🎯 **Geospatial, AI & Web Developer**  
 
 I'm a **Geoinformatics graduate** from **Obafemi Awolowo University (OAU)** with a **4.74 CGPA**, passionate about building intelligent geospatial systems that drive data-informed urban growth.  
 My academic research focused on **AI-based urban building extraction** using **DeepLabv3** and **drone imagery**, integrating **OpenStreetMap (OSM)** data for spatio-temporal monitoring of city expansion.  
