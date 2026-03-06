@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeremiah (Stephen) Adedeji  
+# 👋 Hi, I'm Jeremiah Adedeji  
 
 🎯 **Geospatial, AI & Web Developer**  
 
